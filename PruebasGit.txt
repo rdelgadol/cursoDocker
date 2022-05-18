@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Todavia sin Commit    
 Nueva Prueba Domingo 17:012
-=======
-Todavia sin Commit
->>>>>>> ddf1040... Commit Prueba DSG
+
