@@ -1,3 +1,1 @@
-Todavia sin Commit
-Segunda fila modificada despues stash para stagged
-Tercera FIla FileGit
+Partimos estado inicial
