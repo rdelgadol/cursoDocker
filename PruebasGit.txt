@@ -1,2 +1,1 @@
-Partimos estado inicial3
-Add fila sin staged y hacemos stash
+Nueva Prueba Domingo 17:01
