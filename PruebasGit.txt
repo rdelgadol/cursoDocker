@@ -1,1 +1,2 @@
-Partimos estado inicial
+Partimos estado inicial2
+Add fila sin staged y hacemos stash
