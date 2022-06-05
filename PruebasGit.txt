@@ -1,4 +1,4 @@
 Todavia sin Commit desactualizamos PruebasGit en otramas    
 Nueva Prueba Domingo 17:012
 paso de cherry pick
-Otro conflicto en repositorio remoto
+Otro conflicto en repositorio remoto voy a intentar theirs
