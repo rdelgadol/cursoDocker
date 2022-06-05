@@ -1,3 +1,4 @@
 Todavia sin Commit desactualizamos PruebasGit en otramas    
 Nueva Prueba Domingo 17:012
 paso de cherry pick
+Vamos a generar un conflicto en repositorio remoto
